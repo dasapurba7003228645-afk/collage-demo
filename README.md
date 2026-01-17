@@ -1,4 +1,4 @@
 # collage-demo
 This is my first repository.
 <br>
-author-apurba das
+author-apurba (collage)
